@@ -1,0 +1,15 @@
+C:\Users\2022102020045\source\repos\recuperacaoPoo\recuperacaoPoo\bin\Debug\net6.0\recuperacaoPoo.exe
+C:\Users\2022102020045\source\repos\recuperacaoPoo\recuperacaoPoo\bin\Debug\net6.0\recuperacaoPoo.deps.json
+C:\Users\2022102020045\source\repos\recuperacaoPoo\recuperacaoPoo\bin\Debug\net6.0\recuperacaoPoo.runtimeconfig.json
+C:\Users\2022102020045\source\repos\recuperacaoPoo\recuperacaoPoo\bin\Debug\net6.0\recuperacaoPoo.dll
+C:\Users\2022102020045\source\repos\recuperacaoPoo\recuperacaoPoo\bin\Debug\net6.0\recuperacaoPoo.pdb
+C:\Users\2022102020045\source\repos\recuperacaoPoo\recuperacaoPoo\obj\Debug\net6.0\recuperacaoPoo.csproj.AssemblyReference.cache
+C:\Users\2022102020045\source\repos\recuperacaoPoo\recuperacaoPoo\obj\Debug\net6.0\recuperacaoPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020045\source\repos\recuperacaoPoo\recuperacaoPoo\obj\Debug\net6.0\recuperacaoPoo.AssemblyInfoInputs.cache
+C:\Users\2022102020045\source\repos\recuperacaoPoo\recuperacaoPoo\obj\Debug\net6.0\recuperacaoPoo.AssemblyInfo.cs
+C:\Users\2022102020045\source\repos\recuperacaoPoo\recuperacaoPoo\obj\Debug\net6.0\recuperacaoPoo.csproj.CoreCompileInputs.cache
+C:\Users\2022102020045\source\repos\recuperacaoPoo\recuperacaoPoo\obj\Debug\net6.0\recuperacaoPoo.dll
+C:\Users\2022102020045\source\repos\recuperacaoPoo\recuperacaoPoo\obj\Debug\net6.0\refint\recuperacaoPoo.dll
+C:\Users\2022102020045\source\repos\recuperacaoPoo\recuperacaoPoo\obj\Debug\net6.0\recuperacaoPoo.pdb
+C:\Users\2022102020045\source\repos\recuperacaoPoo\recuperacaoPoo\obj\Debug\net6.0\recuperacaoPoo.genruntimeconfig.cache
+C:\Users\2022102020045\source\repos\recuperacaoPoo\recuperacaoPoo\obj\Debug\net6.0\ref\recuperacaoPoo.dll
